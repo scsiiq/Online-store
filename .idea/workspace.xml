@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="923d9cfb-b218-4a10-ac90-e844e2193ac5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/shop/._basket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/._catalog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/._helper.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/._img" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/._index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/._product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/basket.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/catalog.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/config/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/config/function.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/css/._style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/css/._style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/css/catalog.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/css/catalog.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/css/catalog.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/css/style.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/css/style.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/handlers/._catalog.hand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/handlers/catalog.hand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/helper.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/._.DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/._products" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/._9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/img/products/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/includes/footer.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/includes/header.inc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/js/._catalog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/js/catalog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/js/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/product.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/shop_270517.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/._basket.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._catalog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._helper.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._img" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/._product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/basket.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/catalog.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/config.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/function.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/._style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/._style.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/catalog.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/catalog.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/catalog.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/._catalog.hand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/catalog.hand.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/helper.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._.DS_Store" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/._products" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/._9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/products/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/footer.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/includes/header.inc.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/._catalog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/catalog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\OpenServer\OSPanel\domains\online-store\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aOfNZUDBxLfx8F93sjMrcVHyd6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Developers_archive" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="923d9cfb-b218-4a10-ac90-e844e2193ac5" name="Default Changelist" comment="" />
+      <created>1586611521619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586611521619</updated>
+      <workItem from="1586611525851" duration="3845000" />
+    </task>
+    <task id="LOCAL-00001" summary="отключил папку .idea">
+      <created>1586611738176</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586611738176</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="отключил папку .idea" />
+    <option name="LAST_COMMIT_MESSAGE" value="отключил папку .idea" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="1314" key="CommitChangelistDialog2" timestamp="1586611737501">
+      <screen x="69" y="1200" width="1858" height="1080" />
+    </state>
+    <state x="592" y="1314" key="CommitChangelistDialog2/69.1200.1858.1080/62.0.1858.1200@69.1200.1858.1080" timestamp="1586611737501" />
+    <state x="559" y="1452" key="Vcs.Push.Dialog.v2" timestamp="1586611740621">
+      <screen x="69" y="1200" width="1858" height="1080" />
+    </state>
+    <state x="559" y="1452" key="Vcs.Push.Dialog.v2/69.1200.1858.1080/62.0.1858.1200@69.1200.1858.1080" timestamp="1586611740620" />
+    <state x="663" y="1543" key="com.intellij.ide.util.TipDialog" timestamp="1586611525858">
+      <screen x="69" y="1200" width="1858" height="1080" />
+    </state>
+    <state x="663" y="1543" key="com.intellij.ide.util.TipDialog/69.1200.1858.1080/62.0.1858.1200@69.1200.1858.1080" timestamp="1586611525858" />
+    <state x="776" y="1636" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586614293432">
+      <screen x="69" y="1200" width="1858" height="1080" />
+    </state>
+    <state x="776" y="1636" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/69.1200.1858.1080/62.0.1858.1200@69.1200.1858.1080" timestamp="1586614293432" />
+  </component>
+</project>
