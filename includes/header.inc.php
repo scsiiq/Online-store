@@ -1,6 +1,6 @@
 <?php
-include($_SERVER['DOCUMENT_ROOT']."/shop/config/config.php");
-include($_SERVER['DOCUMENT_ROOT']."/shop/config/function.php");
+include($_SERVER['DOCUMENT_ROOT']."/config/config.php");
+include($_SERVER['DOCUMENT_ROOT']."/config/function.php");
 
 ?>
 <!DOCTYPE html>

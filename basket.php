@@ -11,10 +11,10 @@
 
 ];
 
-include($_SERVER['DOCUMENT_ROOT']."/shop/includes/header.inc.php");
+include($_SERVER['DOCUMENT_ROOT']."/includes/header.inc.php");
 ?>
 <!-- здесь будет контент -->
 
 <?php
-include($_SERVER['DOCUMENT_ROOT']."/shop/includes/footer.inc.php");
+include($_SERVER['DOCUMENT_ROOT']."/includes/footer.inc.php");
 ?>
